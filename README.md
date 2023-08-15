@@ -14,7 +14,3 @@
 ## 💻 Algorithm
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yjh256)](https://solved.ac/yjh256/)
-
-## 🧾 Git Status
-
-![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yjh2569&show_icons=true&theme=radical)
